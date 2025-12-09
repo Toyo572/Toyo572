@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#3B82F6">Toyosi Ogundele</span></h1>
-<h3 align="center"> Backend Developer | Building Production-Ready APIs</h3>
+<h3 align="center"> A Python Backend Developer | 🛠 Building robust APIs & applications | 🌍 Open Source Contributor APIs</h3>
 
 <p align="center">
   <em>Passionate about writing clean, scalable backend systems that solve real problems</em>
